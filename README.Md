@@ -156,6 +156,21 @@ Steps:
   - Docker deployment
 
 ---
+## Screenshots
+
+### Register Page
+![Register](./screenshots/register.png)
+
+### Login Page
+![Login](./screenshots/login.png)
+
+### Dashboard
+![Dashboard](./screenshots/dashboard.png)
+
+### Tasks
+![Tasks](./screenshots/tasks.png)
+
+---
 
 ## Author
 
